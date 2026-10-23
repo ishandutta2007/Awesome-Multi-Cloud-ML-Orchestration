@@ -1,6 +1,6 @@
 # Awesome-Multi-Cloud-ML-Orchestration
 
-# Top Multi-Cloud ML Orchestration Tools Ecosystem
+## Top Multi-Cloud ML Orchestration Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Vendor-Neutral Workload Placement, Spot Recovery & Heterogeneous Accelerator Support*  
